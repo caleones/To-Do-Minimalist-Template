@@ -1,0 +1,31 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "title": "Comprar comestibles",
+      "description": "Comprar leche, pan, y huevos",
+      "completed": false,
+      "dueDate": "2023-10-15",
+      "priority": "alta",
+      "createdAt": "2023-10-01T12:00:00Z"
+    },
+    {
+      "id": 2,
+      "title": "Llamar al médico",
+      "description": "Programar una cita para el chequeo anual",
+      "completed": false,
+      "dueDate": "2027-10-20",
+      "priority": "media",
+      "createdAt": "2023-10-01T12:30:00Z"
+    },
+    {
+      "id": "9bbf",
+      "title": "dadadadada",
+      "dueDate": "7621-09-08",
+      "completed": false,
+      "description": "dadadadadadadad",
+      "priority": "media",
+      "createdAt": "2024-10-31T23:54:24.288Z"
+    }
+  ]
+}
