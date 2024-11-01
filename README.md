@@ -1,6 +1,6 @@
 *This template is currently under development!*
 
-*Esta plantilla aún está en desarrollo!*
+*¡Esta plantilla aún está en desarrollo!*
 
 - [React + Vite + TS + Tailwind Template: The Minimalist To-Do (English)](https://github.com/caleones/To-Do-Minimalist-Template/blob/main/README.md#react--vite--ts--tailwind-template-the-minimalist-to-do)
 - [Plantilla React + Vite + TS + Tailwind: The Minimalist To-Do (Español)](https://github.com/caleones/To-Do-Minimalist-Template/blob/main/README.md#plantilla-react--vite--ts--tailwind-the-minimalist-to-do)
