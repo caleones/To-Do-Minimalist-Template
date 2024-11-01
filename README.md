@@ -2,8 +2,8 @@
 
 *¡Esta plantilla aún está en desarrollo!*
 
-- [React + Vite + TS + Tailwind Template: The Minimalist To-Do (English)](https://github.com/caleones/To-Do-Minimalist-Template/blob/main/README.md#react--vite--ts--tailwind-template-the-minimalist-to-do)
-- [Plantilla React + Vite + TS + Tailwind: The Minimalist To-Do (Español)](https://github.com/caleones/To-Do-Minimalist-Template/blob/main/README.md#plantilla-react--vite--ts--tailwind-the-minimalist-to-do)
+- Find the English readme version following this link: [React + Vite + TS + Tailwind Template: The Minimalist To-Do (English)](https://github.com/caleones/To-Do-Minimalist-Template/blob/main/README.md#react--vite--ts--tailwind-template-the-minimalist-to-do)
+- Encuentra la versión en Español del readme siguiendo este enlace: [Plantilla React + Vite + TS + Tailwind: The Minimalist To-Do (Español)](https://github.com/caleones/To-Do-Minimalist-Template/blob/main/README.md#plantilla-react--vite--ts--tailwind-the-minimalist-to-do)
 
 # React + Vite + TS + Tailwind Template: The Minimalist To-Do
 
